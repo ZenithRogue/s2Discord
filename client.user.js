@@ -3,8 +3,8 @@
 // @namespace    http://tampermonkey.net/
 // @version      0.1
 // @description  try to take over the world!
-// @author       You
-// @match        https://scratchx.org/*
+// @author       NitroCipher
+// @match        http*://scratchx.org/*
 // @grant        none
 // @require      https://cdnjs.cloudflare.com/ajax/libs/jquery/3.3.1/jquery.min.js
 // @require      https://gist.githubusercontent.com/NitroCipher/479a8dd270793b76afcd63cbf2b3550b/raw/2c48a8063b193b6395bbb9d1591651b9653b2fbf/cord.min.js
