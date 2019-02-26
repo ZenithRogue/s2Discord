@@ -7,7 +7,7 @@ Using Scratch 2.0 as a Discord Client
 
 1. First install the userscript with Tampermonkey (```Client.user.js```)
 
-2. [Get your discord user token](https://github.com/TheRacingLion/Discord-SelfBot/wiki/Discord-Token-Tutorial)
+2. [Get your discord user token](https://discordhelp.net/discord-token)
 
 3. Edit the installed userscript, and paste your user token in the quotation marks in ```var token = "";```
 
